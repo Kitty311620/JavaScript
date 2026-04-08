@@ -11,3 +11,10 @@ function Leaving()
     console.log("Thank you for coming. Bye!")
 }
 Leaving()
+//_______________________________________________________________________________________________
+function soundAlarm()
+{
+console.log("WARNING: ZOMBIES AT THE GATE!")
+console.log("RUN TAKE YOUR BAGS!")
+}
+soundAlarm()
