@@ -18,3 +18,11 @@ console.log("WARNING: ZOMBIES AT THE GATE!")
 console.log("RUN TAKE YOUR BAGS!")
 }
 soundAlarm()
+//________________________________________________________________________________________________
+function Victorydance()
+{
+    console.log("Slide to the left!")
+    console.log("Spin around!")
+    console.log("Moonwalk!")
+}
+Victorydance()
