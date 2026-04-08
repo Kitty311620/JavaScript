@@ -45,4 +45,16 @@ function Multiply (A,B,C)
     console.log(A*B*C)
 }
 Multiply(98,67,76)
-
+//___________________________________________________________________________________________________
+function identifySupply(item)
+{
+    console.log("Scanning.... Found one!",item)
+}
+identifySupply("Medkit")
+identifySupply("Crossbow")
+//____________________________________________________________________________________________________
+function distractZombies(direction,speed)
+{
+    console.log("Robot Dog is sprinting ",direction," at ",speed," miles per hour!")
+}
+distractZombies("North",25)
