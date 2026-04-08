@@ -26,3 +26,23 @@ function Victorydance()
     console.log("Moonwalk!")
 }
 Victorydance()
+//_________________________________________________________________________________________________
+//Functions with arguments.
+function Add (num1,num2)
+{
+    console.log(num1+num2)
+}
+Add(600000,70000)
+
+function Subtract (a,b)
+{
+    console.log(a-b)
+}
+Subtract(87,20)
+
+function Multiply (A,B,C)
+{
+    console.log(A*B*C)
+}
+Multiply(98,67,76)
+
